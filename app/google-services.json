@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744491346775",
+    "project_id": "encryptiontryy",
+    "storage_bucket": "encryptiontryy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744491346775:android:4bcb0f8e3a0fd334c46c12",
+        "android_client_info": {
+          "package_name": "com.example.encryption_lasttry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744491346775-igauk7600nvv124bj9j9bn0d8vhdstmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmKUPreYJniel1M0rzxNMYedCgNPbHtAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744491346775-igauk7600nvv124bj9j9bn0d8vhdstmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
